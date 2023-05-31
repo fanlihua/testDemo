@@ -15,7 +15,7 @@
     
 }
 -(void)hehe{
-    NSLog(@"呵呵呵呵");
+    NSLog(@"呵呵呵呵990");
     [self sayHi];
 }
 
